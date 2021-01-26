@@ -6,6 +6,10 @@ public class Teste {
 		// TODO Auto-generated method stub
 
 		System.out.println("testando o git");
+		
+		System.out.println("Colocando mais uma linha");
+		System.out.println(" Outra linha");
+		
 	}
 
 }
